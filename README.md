@@ -1,1 +1,10 @@
 # DSA-WITH-C-
+in this repo we talk about the following things
+--> ARRAY CREATION 
+--> DYNAMIC INPUT IN ARRAY
+--> TRAVERSING
+--> SEARCHING OF ELEMENTS 
+--> SWAPINGS 
+--> SORTING TECHIQUES 
+--> UNSORTED SEARCH 
+
