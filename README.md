@@ -1,5 +1,5 @@
 # DSA-WITH-C-
-in this repo we talk about the following things
+In this repo we talk about the following things
 --> ARRAY CREATION 
 --> DYNAMIC INPUT IN ARRAY
 --> TRAVERSING
