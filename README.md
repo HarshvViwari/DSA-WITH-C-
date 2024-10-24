@@ -13,3 +13,34 @@ In this repo we talk about the following things
     THE   -- DSA PRACTICEE -- SHEET IS PORVIDED 
     YOU CAN DOENLOD AND STAR SOLVE TO BEAT YOUR 
     DREAM CUMPANY
+
+TIME COMPLEXITY
+1. BIG O NOTATION -- WHEN WE TALK ABOUT THE WORST CASE SINEARIO IN THE CODE EXECUTION
+   IS CALLED BIG O TIME COMEPLXITY
+
+2. BIG OMEGA -- WHE THE CODE EXECUTION IS THE BEST CASE SINEARIO IS TERMED AS BIG OMEGA
+   NOTATION IN TIME COMPLEX.
+
+               COMMON TIME COMPLEXITY
+            O(K) -- FOR ANY CONSTANT
+            O(N) -- FOR ANY LINEAR EXECUTION OF
+                    A BLOCK OF CODE "LOOPS"
+            O(N^2/3) -- FOR NESTED LOOPS
+            O(LOGn) -- IT IS THE BEST TIME COMPLEXITY
+                       'WHEN WE DO WORK FOR N/2 TIMES'
+
+   EX.
+   FOR(INT I=2; I*I<=N; I++){
+    IF(N%2 == 0)
+     COUT << NON PRIME ;
+     BREAK;
+   }
+
+           IMPORTANT CODE CONSTRAINS
+       N > 10^8 -- LOG N
+       N < 10^8 -- O(N)
+       N < 10^6 -- N LOGn
+       N < 10^4 -- N^2
+       N < 500 -- N^3
+                     ETC           
+            
