@@ -1,0 +1,428 @@
+boiler plate code 
+#include <iostream>
+using namespace std;
+
+int main(){
+
+to print any output in cpp cout is used
+cout <<"STRING WRITE";
+\n new line
+
+variable in cpp
+datatype vari = "string" or intger
+print variable
+cout << vari ; without quotes
+
+datatypes
+(str),(bool),(float),(int)
+
+type casting 
+char name = 'A';
+int nchar = name;
+
+double price = 100.99;
+int nprice = (int)price;
+
+TO TAKE INPUIT IN CPP WE USE  cin >>
+ex.
+cin >> variable;
+
+operators => +,-,*,/,%
+
+LOOPS 
+int i =1;
+while (i>0){
+cout << "print i " << i << endl;
+}
+for (int i =1;i<=10;i++){
+cout << "iis  " << i << endl;
+
+}
+FUNCTION 
+returnType nameoffuncn(parameters){
+
+return val;
+}
+EXAMPLE 
+void minof2(int a, int b){
+if (a<b){
+  cout << "a is less than b" << endl;
+}
+else 
+  cout << "b is less than a" << endl;
+}
+
+return 0;
+}
+#include "iostream"
+using namespace std;
+int main(){
+
+  int size;
+  cout<<"entre size of array " <<endl;
+  cin >> size;
+
+  int array[size];
+  for (int i=0; i<size; i++){
+    cout << "entre  element : " << endl;
+    cin >> array[i];
+  }
+  int sub;
+  sub = (size*(size+1))/2;
+  cout << "the total number of sub array of the array is : " << sub << endl;
+  int start,end;
+
+  for (start=0; start< size; start++){
+    for (end = start; end <size; end++){
+      for(int i=start; i<=end; i++){
+        cout << array[i] << " ";
+      }
+      cout << " ";
+    }
+    cout << endl;
+  }
+
+
+
+  return 0;
+}
+
+erp que 3
+#include <bits/stdc++.h>
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  int n, sum = 0, i;
+
+  cout << "entre num ";
+  cin >> n;
+
+  int arr[n];
+
+  for (i = 0; i < n; i++) {
+    cin >> arr[i];
+  }
+
+  for (i = 0; i < n; i++) {
+    cout << arr[i] << endl;
+    sum = sum + arr[i];
+  }
+
+  cout << sum << endl;
+
+  sort(arr, arr + n);
+
+  cout << "sorted ";
+  for (i = 0; i < n; i++) {
+    cout << arr[i] << endl;
+  }
+
+  if (n % 2 == 0) {
+    int med = (arr[n / 2] + arr[(n / 2) - 1]);
+    cout << "median is " << endl;
+    cout << med / 2;
+  } else {
+    cout << "median is " << endl;
+    cout << arr[n / 2];
+  }
+
+  return 0;
+}
+ERP Q4
+#include <iostream>
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+  int n,i,sum=0;
+
+  cout << "entre num ";
+  cin >> n;
+
+int arr[n];
+
+for(i = 0; i < n; i++)
+{
+  cin >> arr[i];
+} 
+sort(arr,arr + n);
+
+cout << "sorted "<< endl;
+
+for (i = 0; i < n; i++)
+{
+  cout << arr[i] << endl;
+}
+vector<int> v;
+for (int i=0; i<n; i++){
+  v.push_back(arr[i]);
+}
+v.erase(v.begin());
+
+for (int i = 0; i < n-1; i++)
+{
+  sum = sum + v[i];
+}
+
+cout << sum;
+ return 0;
+}
+
+ERP STR REVERSE
+#include <iostream>
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+string s;
+cout << "entre str ";
+cin >> s;
+int n = s.size();
+
+for (int i=n-1; i>=0; i--){
+  cout << s[i];
+}
+ return 0;
+}
+erpq3 date 5march
+#include <iostream>
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+string s;
+cout << "entre str ";
+cin >> s;
+int n = s.size();
+int ptr1=0,ptr2=n-1;
+while (ptr1<=ptr2)
+{
+  if(s[ptr1] == s[ptr2]){
+    ptr1++;
+  }else{
+    ptr2--;
+  }
+}
+cout << s[ptr1-1];
+
+
+ return 0;
+}
+#include <iostream>
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+string s1,s2;
+cout << " entre str " << endl;
+cin >> s1;
+cin >> s2;
+int l1= s1.size(),l2= s2.size();
+if(l1 == l2){
+s1.sort();
+s2.sort();
+
+}
+if(s1 == s2){
+  cout << true ;
+}
+
+
+ return 0;
+}
+
+create link list
+#include <bits/stdc++.h>
+#include <iostream>
+using namespace std;
+
+class node {
+public:
+  int data;
+  node *next;
+};
+
+int main() {
+
+  cout << "Try programiz.pro";
+  node *head = NULL, *temp = NULL;
+  char c;
+  cout << " y to continue and n to exit" << endl;
+  cin >> c;
+
+  while (c == 'y') {
+    if (head == NULL) {
+      cout << " entre data";
+      head = new node();
+      cin >> head->data;
+      temp = head;
+    } else {
+      temp->next = new node();
+      temp = temp->next;
+      cout << " entre data ";
+      cin >> temp->data;
+    }
+    cout << " y or n";
+    cin >> c;
+  }
+  return 0;
+}
+#include <iostream>
+#include <bits/stdc++.h>
+
+class node{
+  int data;
+  node* next;
+}
+vector create (int a){
+  vector <int> v;
+  v.push_back(a)
+  return v;
+}
+void printvector(vector vec){
+  for(auto it=vec.begin(); it<vec.end(); it ++){
+  cout << *it << endl;
+  }
+}
+
+void cnode(vector v){
+  int s = v.size();
+  for (int i=0; i<s; i++){
+node *head=NULL,*temp=NULL;
+  if(head == NULL){
+head = new node();
+head->data = v[i];
+temp = head;
+}  else{
+temp->next = new node();
+temp = temp->next;
+temp->data =v[i];
+  return head;
+    }
+  }
+}
+
+int main(){
+vector <int> v={1,5,9,7,8,6};
+printvector(v);
+
+cnode(v);
+return 0;
+}
+erp date 7march
+#include <bits/stdc++.h>
+#include <iostream>
+using namespace std;
+
+class node {
+public:
+  int data;
+  node *next;
+};
+
+int main() {
+
+  cout << "START " << endl;
+  node *head = NULL, *temp = NULL;
+  char c;
+  int count = 0, num;
+  cout << " y to continue and n to exit" << endl;
+  cin >> c;
+
+  while (c == 'y') {
+    if (head == NULL) {
+      cout << " entre data endl" << endl;
+      head = new node();
+      cin >> head->data;
+      temp = head;
+    } else {
+      temp->next = new node();
+      temp = temp->next;
+      cout << " entre data " << endl;
+      cin >> temp->data;
+    }
+    cout << " y or n" << endl;
+    cin >> c;
+  }
+
+  temp = head;
+
+  while (temp != NULL) {
+    cout << temp->data << endl;
+    temp = temp->next;
+    count++;
+  }
+
+  cout << " the total nodes are " << count << endl;
+  temp = head;
+  node* ptr = head->next;
+  cout << "entre the number " << endl;
+  cin >> num;
+  int i = 0;
+  while(temp != NULL){
+    i++;
+    int j=1;
+    ptr = head->next;
+    while(ptr != NULL){
+      j++;
+      if(ptr->data + temp->data == num){
+        cout << "the sum of num is at " << i << "  " << j <<endl;
+        return 0;
+      }else{
+        ptr = ptr->next;
+      }
+
+    }  
+    temp = temp->next;
+
+  }
+
+  cout << "the sum of num is not at any position" << endl;
+
+  // int i = 1;
+  // while (i < num) {
+  //   temp = temp->next;
+  //   i++;
+  // }
+  // node *ptr = head;
+  // i = 1;
+  // while (i < count - num + 1) {
+  //   ptr = ptr->next;
+  //   i++;
+  // }
+
+  // int dtemp = temp->data;
+  // temp->data = ptr->data;
+  // ptr->data = dtemp;
+
+  // temp = head;
+
+  // while (temp != NULL) {
+  //   cout << temp->data << endl;
+  //   temp = temp->next;
+  //   count++;
+  // }
+  // //cout << "entre number you want to search" << endl;
+
+  // cin >> num;
+  // temp = head;
+  // int i = 0;
+  // while (temp != NULL) {
+  //   i++;
+  //   if (temp->data == num) {
+  //     cout << num << " found at " << i << endl;
+  //     return 0;
+  //   } else {
+  //     temp = temp->next;
+  //   }
+
+  // }
+  // cout << " not fount " << endl;
+  return 0;
+}
