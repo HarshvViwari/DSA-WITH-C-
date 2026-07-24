@@ -55,9 +55,14 @@ TIME COMPLEXITY
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0326-power-of-three) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
 ## Number Theory
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
