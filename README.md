@@ -70,20 +70,24 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
