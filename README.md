@@ -56,6 +56,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0326-power-of-three) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
 ## Number Theory
@@ -110,4 +111,5 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
