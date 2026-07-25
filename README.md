@@ -74,6 +74,7 @@ TIME COMPLEXITY
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -81,6 +82,7 @@ TIME COMPLEXITY
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -94,6 +96,7 @@ TIME COMPLEXITY
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
