@@ -64,6 +64,7 @@ TIME COMPLEXITY
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0326-power-of-three) |
 ## Tree
 |  |
@@ -81,4 +82,16 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
