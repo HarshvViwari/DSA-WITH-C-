@@ -51,6 +51,7 @@ TIME COMPLEXITY
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0624-maximum-distance-in-arrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
@@ -136,6 +137,7 @@ TIME COMPLEXITY
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 ## Brainteaser
@@ -178,4 +180,8 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2483-minimum-penalty-for-a-shop) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
