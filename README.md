@@ -60,6 +60,7 @@ TIME COMPLEXITY
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0007-reverse-integer) |
 | [0168-excel-sheet-column-title](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0171-excel-sheet-column-number) |
 | [0319-bulb-switcher](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0319-bulb-switcher) |
