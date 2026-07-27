@@ -51,6 +51,7 @@ TIME COMPLEXITY
 ## Array
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -120,6 +121,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
+| [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +136,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -162,10 +165,12 @@ TIME COMPLEXITY
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 ## Prefix Sum
 |  |
