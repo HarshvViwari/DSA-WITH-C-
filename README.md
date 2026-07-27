@@ -52,6 +52,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0624-maximum-distance-in-arrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -166,6 +167,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0624-maximum-distance-in-arrays) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 ## Sorting
 |  |
