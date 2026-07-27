@@ -52,6 +52,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -61,10 +62,12 @@ TIME COMPLEXITY
 | [0326-power-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0357-count-numbers-with-unique-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Number Theory
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
@@ -139,4 +142,12 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0357-count-numbers-with-unique-digits) |
+## Hash Table
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Counting
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
 <!---LeetCode Topics End-->
