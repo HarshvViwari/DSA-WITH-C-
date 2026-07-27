@@ -59,6 +59,7 @@ TIME COMPLEXITY
 | [0171-excel-sheet-column-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0171-excel-sheet-column-number) |
 | [0319-bulb-switcher](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0326-power-of-three) |
+| [0357-count-numbers-with-unique-digits](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0357-count-numbers-with-unique-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
 ## Number Theory
 |  |
@@ -130,4 +131,12 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0319-bulb-switcher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0357-count-numbers-with-unique-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
