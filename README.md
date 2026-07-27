@@ -129,6 +129,7 @@ TIME COMPLEXITY
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0171-excel-sheet-column-number) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -166,4 +167,8 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
