@@ -52,6 +52,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
+| [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Math
 |  |
@@ -62,6 +63,7 @@ TIME COMPLEXITY
 | [0326-power-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0357-count-numbers-with-unique-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
+| [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Number Theory
@@ -139,6 +141,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0357-count-numbers-with-unique-digits) |
+| [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 ## Backtracking
 |  |
 | ------- |
@@ -155,4 +158,12 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Greedy
+|  |
+| ------- |
+| [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
+## Sorting
+|  |
+| ------- |
+| [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 <!---LeetCode Topics End-->
