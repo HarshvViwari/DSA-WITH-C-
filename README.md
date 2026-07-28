@@ -56,6 +56,7 @@ TIME COMPLEXITY
 | [0523-continuous-subarray-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0624-maximum-distance-in-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0713-subarray-product-less-than-k) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -150,6 +151,7 @@ TIME COMPLEXITY
 | [0098-validate-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
+| [0713-subarray-product-less-than-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0713-subarray-product-less-than-k) |
 ## Brainteaser
 |  |
 | ------- |
@@ -191,6 +193,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0523-continuous-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0713-subarray-product-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Divide and Conquer
 |  |
@@ -204,4 +207,8 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
