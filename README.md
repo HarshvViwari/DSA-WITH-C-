@@ -57,6 +57,7 @@ TIME COMPLEXITY
 | [0523-continuous-subarray-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0624-maximum-distance-in-arrays) |
+| [0695-max-area-of-island](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0713-subarray-product-less-than-k) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
@@ -108,6 +109,7 @@ TIME COMPLEXITY
 | [0200-number-of-islands](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ TIME COMPLEXITY
 | [0112-path-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,11 +210,13 @@ TIME COMPLEXITY
 | ------- |
 | [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0695-max-area-of-island) |
 ## Sliding Window
 |  |
 | ------- |
