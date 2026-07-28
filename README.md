@@ -52,6 +52,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0624-maximum-distance-in-arrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
@@ -99,6 +100,7 @@ TIME COMPLEXITY
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -108,6 +110,7 @@ TIME COMPLEXITY
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -189,4 +192,12 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0004-median-of-two-sorted-arrays) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
