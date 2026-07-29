@@ -52,6 +52,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0200-number-of-islands) |
@@ -200,6 +201,7 @@ TIME COMPLEXITY
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
