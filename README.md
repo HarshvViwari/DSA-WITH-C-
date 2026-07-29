@@ -52,6 +52,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0200-number-of-islands) |
 | [0523-continuous-subarray-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0523-continuous-subarray-sum) |
@@ -138,6 +139,7 @@ TIME COMPLEXITY
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 ## Stack
@@ -193,6 +195,7 @@ TIME COMPLEXITY
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 ## Prefix Sum
