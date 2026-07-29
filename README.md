@@ -62,6 +62,7 @@ TIME COMPLEXITY
 | [0624-maximum-distance-in-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0713-subarray-product-less-than-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -150,6 +151,7 @@ TIME COMPLEXITY
 | [0202-happy-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -208,6 +210,7 @@ TIME COMPLEXITY
 | [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 ## Prefix Sum
 |  |
