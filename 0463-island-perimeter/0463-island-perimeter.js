@@ -1,0 +1,1 @@
+const islandPerimeter=e=>{const t=e.length,n=e[0].length;let o=0;for(const[r,s]of e.entries())for(const[c,f]of s.entries())f&&(o+=4,r>0&&e[r-1][c]&&o--,c>0&&e[r][c-1]&&o--,r<t-1&&e[r+1][c]&&o--,c<n-1&&e[r][c+1]&&o--);return o};
