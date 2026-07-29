@@ -135,11 +135,13 @@ TIME COMPLEXITY
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 ## Stack
@@ -196,6 +198,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 ## Prefix Sum
@@ -208,6 +211,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -224,4 +228,8 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0713-subarray-product-less-than-k) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
