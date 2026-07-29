@@ -55,6 +55,7 @@ TIME COMPLEXITY
 | [0056-merge-intervals](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
+| [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
 | [0200-number-of-islands](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0523-continuous-subarray-sum) |
@@ -71,6 +72,7 @@ TIME COMPLEXITY
 | ------- |
 | [0007-reverse-integer](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0202-happy-number) |
@@ -188,6 +190,7 @@ TIME COMPLEXITY
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0523-continuous-subarray-sum) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -250,4 +253,8 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
