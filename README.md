@@ -70,6 +70,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0202-happy-number) |
@@ -177,6 +178,7 @@ TIME COMPLEXITY
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0062-unique-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0357-count-numbers-with-unique-digits) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 ## Backtracking
@@ -244,4 +246,8 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
