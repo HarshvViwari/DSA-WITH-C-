@@ -68,6 +68,7 @@ TIME COMPLEXITY
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Math
 |  |
 | ------- |
@@ -85,11 +86,13 @@ TIME COMPLEXITY
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Number Theory
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Recursion
 |  |
 | ------- |
