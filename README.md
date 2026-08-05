@@ -72,6 +72,7 @@ TIME COMPLEXITY
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
@@ -96,6 +97,7 @@ TIME COMPLEXITY
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0326-power-of-three) |
 ## Tree
@@ -148,6 +150,7 @@ TIME COMPLEXITY
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
