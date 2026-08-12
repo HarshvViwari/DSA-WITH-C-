@@ -67,6 +67,7 @@ TIME COMPLEXITY
 | [0977-squares-of-a-sorted-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1250-check-if-it-is-a-good-array) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Math
@@ -164,6 +165,7 @@ TIME COMPLEXITY
 | [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
@@ -210,6 +212,7 @@ TIME COMPLEXITY
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Greedy
 |  |
