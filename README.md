@@ -58,6 +58,7 @@ TIME COMPLEXITY
 | [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
 | [0164-maximum-gap](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0200-number-of-islands) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
@@ -163,6 +164,7 @@ TIME COMPLEXITY
 | [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -182,6 +184,7 @@ TIME COMPLEXITY
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0713-subarray-product-less-than-k) |
 ## Brainteaser
@@ -203,6 +206,7 @@ TIME COMPLEXITY
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0523-continuous-subarray-sum) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Counting
@@ -227,6 +231,7 @@ TIME COMPLEXITY
 | [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0164-maximum-gap) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
