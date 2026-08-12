@@ -111,6 +111,7 @@ TIME COMPLEXITY
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -123,6 +124,7 @@ TIME COMPLEXITY
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0543-diameter-of-binary-tree) |
@@ -147,6 +149,7 @@ TIME COMPLEXITY
 | [0111-minimum-depth-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
@@ -183,6 +186,7 @@ TIME COMPLEXITY
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
