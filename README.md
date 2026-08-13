@@ -160,6 +160,7 @@ TIME COMPLEXITY
 | [0141-linked-list-cycle](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +172,7 @@ TIME COMPLEXITY
 | [0234-palindrome-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
+| [0876-middle-of-the-linked-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
