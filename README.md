@@ -184,6 +184,7 @@ TIME COMPLEXITY
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0171-excel-sheet-column-number) |
+| [1796-second-largest-digit-in-a-string](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1796-second-largest-digit-in-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Binary Search Tree
 |  |
@@ -217,6 +218,7 @@ TIME COMPLEXITY
 | [0202-happy-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0523-continuous-subarray-sum) |
+| [1796-second-largest-digit-in-a-string](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1796-second-largest-digit-in-a-string) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Counting
 |  |
