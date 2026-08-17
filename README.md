@@ -62,6 +62,7 @@ TIME COMPLEXITY
 | [0268-missing-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0624-maximum-distance-in-arrays) |
