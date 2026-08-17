@@ -59,6 +59,7 @@ TIME COMPLEXITY
 | [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
 | [0164-maximum-gap](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0523-continuous-subarray-sum) |
@@ -82,6 +83,7 @@ TIME COMPLEXITY
 | [0168-excel-sheet-column-title](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0357-count-numbers-with-unique-digits) |
@@ -195,6 +197,7 @@ TIME COMPLEXITY
 | [0098-validate-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0713-subarray-product-less-than-k) |
@@ -218,6 +221,7 @@ TIME COMPLEXITY
 | [0141-linked-list-cycle](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0523-continuous-subarray-sum) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1796-second-largest-digit-in-a-string) |
@@ -244,6 +248,7 @@ TIME COMPLEXITY
 | [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0977-squares-of-a-sorted-array) |
@@ -300,4 +305,8 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
