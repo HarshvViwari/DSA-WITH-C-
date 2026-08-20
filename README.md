@@ -59,6 +59,7 @@ TIME COMPLEXITY
 | [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
 | [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
 | [0164-maximum-gap](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -224,6 +225,7 @@ TIME COMPLEXITY
 | [0001-two-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -233,6 +235,7 @@ TIME COMPLEXITY
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0169-majority-element) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Simulation
 |  |
@@ -252,6 +255,7 @@ TIME COMPLEXITY
 | [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0611-valid-triangle-number) |
@@ -268,6 +272,7 @@ TIME COMPLEXITY
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0169-majority-element) |
 ## Union-Find
 |  |
 | ------- |
@@ -321,4 +326,8 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
