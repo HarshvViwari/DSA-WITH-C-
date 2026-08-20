@@ -56,6 +56,7 @@ TIME COMPLEXITY
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0130-surrounded-regions) |
 | [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
 | [0164-maximum-gap](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0164-maximum-gap) |
@@ -213,6 +214,7 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0062-unique-paths) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0357-count-numbers-with-unique-digits) |
 | [1363-largest-multiple-of-three](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/1363-largest-multiple-of-three) |
 ## Backtracking
