@@ -51,6 +51,7 @@ TIME COMPLEXITY
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0056-merge-intervals) |
@@ -220,6 +221,7 @@ TIME COMPLEXITY
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0202-happy-number) |
