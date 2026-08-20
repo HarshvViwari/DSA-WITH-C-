@@ -313,4 +313,12 @@ TIME COMPLEXITY
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HarshvViwari/DSA-WITH-C-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
